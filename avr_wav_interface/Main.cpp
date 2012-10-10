@@ -8,6 +8,7 @@ int main()
 	DDRD = 0x00;
 	DDRC = 0xff;
 	DDRB = 0xff;
+	//test
 
 
 	while(1) {
