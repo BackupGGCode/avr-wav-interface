@@ -24,4 +24,4 @@ and more:
 
 ## IDEA ##
 
-![https://web.archive.org/web/20150429184021/http://avr-wav-interface.googlecode.com/svn/schemat.png](https://web.archive.org/web/20150429184021/http://avr-wav-interface.googlecode.com/svn/schemat.png)
+<img src="https://web.archive.org/web/20150429184021/http://avr-wav-interface.googlecode.com/svn/schemat.png">
